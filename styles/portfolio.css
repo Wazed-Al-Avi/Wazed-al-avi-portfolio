@@ -41,8 +41,9 @@ nav{
     cursor: pointer;
 }
 .section-heading {
-    /* max-width: 827px; */
+    max-width: 827px;
     text-align: center;
+    margin: 0 auto;
 }
 .section-heading h2{
     font-size: 35px;
@@ -120,6 +121,18 @@ nav .menu a{
     color: #757575
 }
 .info-card h4{
-    font-size: 20px;
-    
+    font-size: 20px;}
+
+#skills{
+    padding-top: 130px;
+}
+#skills  .skills-container {
+ width: 71%;
+ max-width: 1140px;
+ margin: 0 auto;
+}
+.Skills-heading {
+    max-width: 827px;
+    text-align: center;
+    margin: 0 auto;
 }
